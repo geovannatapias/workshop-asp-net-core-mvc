@@ -10400,11 +10400,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROGRAMAÇÃO\\Projeto Sales\\SalesWebMvc\\new\\SalesWebMvc\\SalesWebMvc.csproj",
+      "projectUniqueName": "D:\\PROGRAMAÇÃO\\Projeto Sales\\SalesWebMvc\\SalesWebMvc.new\\SalesWebMvc\\SalesWebMvc.csproj",
       "projectName": "SalesWebMvc",
-      "projectPath": "D:\\PROGRAMAÇÃO\\Projeto Sales\\SalesWebMvc\\new\\SalesWebMvc\\SalesWebMvc.csproj",
+      "projectPath": "D:\\PROGRAMAÇÃO\\Projeto Sales\\SalesWebMvc\\SalesWebMvc.new\\SalesWebMvc\\SalesWebMvc.csproj",
       "packagesPath": "C:\\Users\\geova\\.nuget\\packages\\",
-      "outputPath": "D:\\PROGRAMAÇÃO\\Projeto Sales\\SalesWebMvc\\new\\SalesWebMvc\\obj\\",
+      "outputPath": "D:\\PROGRAMAÇÃO\\Projeto Sales\\SalesWebMvc\\SalesWebMvc.new\\SalesWebMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

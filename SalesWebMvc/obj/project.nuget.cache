@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MSEkBFmeNI+4iGKShaSNDVrYFW2ZVWNob62nEI08YJq3lMH/mJiBV0ucxhJXPinuKxfD+4lM2X6pi7jGSwibAg==",
+  "dgSpecHash": "o6H08zgW53Ko5cl/CDHmJdjwmt2U4USDqArgmpTVOpb+4uCYp5ZDwAzTk48YPuf7NtIlBEoKnlBOR1wThpsLlg==",
   "success": true,
-  "projectFilePath": "D:\\PROGRAMAÇÃO\\Projeto Sales\\SalesWebMvc\\new\\SalesWebMvc\\SalesWebMvc.csproj",
+  "projectFilePath": "D:\\PROGRAMAÇÃO\\Projeto Sales\\SalesWebMvc\\SalesWebMvc.new\\SalesWebMvc\\SalesWebMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\geova\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\geova\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
